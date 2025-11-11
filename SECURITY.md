@@ -22,7 +22,6 @@ Please include as much of the information listed below as you can to help us bet
 - Any special configuration required to reproduce the issue
 - Step-by-step instructions to reproduce the issue
 - Proof-of-concept or exploit code (if possible)
-- Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
 
